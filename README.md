@@ -1,5 +1,3 @@
-[![シャチのアース](./earth1.jpg)](https://github.com/orcasharkz)
-
 ## Hi there 👋
 
 <!--
