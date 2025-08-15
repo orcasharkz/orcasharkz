@@ -1,4 +1,4 @@
-## Hi there 👋
+![シャチのアース](images/earth.jpg)
 
 <!--
 **orcasharkz/orcasharkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
